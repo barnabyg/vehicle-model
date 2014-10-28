@@ -8,8 +8,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <cobertura.version>2.6</cobertura.version>
-    <pmd.version>3.1</pmd.version>
-    <checkstyle.version>2.12.1</checkstyle.version>
+    <pmd.version>3.2</pmd.version>
+    <checkstyle.version>2.13</checkstyle.version>
   </properties>
 
   <prerequisites>
